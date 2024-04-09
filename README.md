@@ -1,6 +1,10 @@
 # banapass_reader_pn532
 code to use pn532 to make a namco card-if device
-based on captured packets from namco's original card reader by my self.
+based on captured packets from namco's original card reader by my self.  
+
+**Open source for research purposes, commercial use without permission is prohibited**
+
+**研究用途开源，禁止未经许可进行商业用途**
 
 # Hardware
 you need :
